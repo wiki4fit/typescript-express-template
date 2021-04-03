@@ -33,7 +33,7 @@
     "typescript": "^4.0.2"
   },
   "dependencies": {
-    "bull": "^3.18.0",
+    "bull": "^3.18.1",
     "bull-board": "^0.10.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
