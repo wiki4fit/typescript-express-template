@@ -1178,10 +1178,10 @@ buffer-from@1.x, buffer-from@^1.0.0:
   resolved "https://registry.yarnpkg.com/buffer-from/-/buffer-from-1.1.1.tgz#32713bc028f75c02fdb710d7c7bcec1f2c6070ef"
   integrity sha512-MQcXEUbCKtEo7bhqEs6560Hyd4XaovZlO/k9V3hjVUF/zwW7KBVdSK4gIt/bzwS9MbR5qob+F5jusZsb0YQK2A==
 
-bull-board@^0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/bull-board/-/bull-board-0.9.0.tgz#266c7c20ac819df91c790d44634e2573bff47ae7"
-  integrity sha512-Ek6zNREJSPWT+j7GyZRMHDXprrFfeLYzJNV0EIUqhiUkCd8NV3F9qGa/0vThxB0OxcoMp/mDVdhQYz7OTlmrlw==
+bull-board@^0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/bull-board/-/bull-board-0.10.0.tgz#2e9b4db224cb26115cd8c51e1aad89aa640ac307"
+  integrity sha512-MpjvzBFSgQOO/MJBM86uuZwwpgt7rQHShXgwm4e11eEAGibuvmx2FYbimriXT9ma6XJgPgBMPt1YkWfst77jWA==
   dependencies:
     body-parser "^1.17.2"
     bull "3.11.0"
